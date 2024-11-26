@@ -9,8 +9,8 @@
    - `matplotlib`
    - `gdown`
 3. **Datasets**:
-* dataset_1(Wednesday): https://drive.google.com/file/d/1zOeCqtGZjAj_nSLe3W5MH5pDQM28bPde/view?usp=sharing	
-* dataset_3(Thursday_Morning):
+   - `dataset_1(Wednesday)`: https://drive.google.com/file/d/1zOeCqtGZjAj_nSLe3W5MH5pDQM28bPde/view?usp=sharing
+   - `dataset_3(Thursday_Morning)`:
 https://drive.google.com/file/d/1WL00LFkCA2ylV8_8c6jm52bnEhGLcKsq/view?usp=sharing					
 
 ---
