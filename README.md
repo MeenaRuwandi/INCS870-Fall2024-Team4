@@ -52,5 +52,4 @@ Includes steps like:
 ## **Comment**
 I sincerely appreciate Professor Zhida and my teammates, Meena and Yoojin, for their support and collaboration.
 
-Siwon Lim<br>
-1331833
+Siwon Lim
