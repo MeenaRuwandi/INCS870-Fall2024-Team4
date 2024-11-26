@@ -1,4 +1,6 @@
-# **Experiment 5: SMOTE-Custom-2-RF_XGBoost.ipynb**
+# **Experiment 5: Experiment With Optimizing SMOTE Ratios**
+## **Source Code**
+SMOTE-Custom-2-RF_XGBoost.ipynb
 
 ## **System Requirements**
 1. **Python**: Version 3.9 or higher.
@@ -31,7 +33,7 @@ Includes steps like:
 1. Handling missing values.
 2. Applying SMOTE to balance the dataset.
 
-### **Step 3: Model Training**
+### **Step 3: SMOTE & Model Training**
 - Train a **Random Forest** and an **XGBoost** model using the balanced dataset.
 - Perform hyperparameter tuning if applicable.
 
