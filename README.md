@@ -22,7 +22,8 @@ The focus is on improving precision, recall, and F1-scores for minority/rare cla
 
 #### Dataset
 - **CICIDS2017**: Wednesday and Thursday morning data.
-
+##### Wednesday (dataset_1) : https://drive.google.com/file/d/1zOeCqtGZjAj_nSLe3W5MH5pDQM28bPde/view?usp=sharing
+##### Thursday morning (dataset_3) : https://drive.google.com/file/d/1zOeCqtGZjAj_nSLe3W5MH5pDQM28bPde/view?usp=sharing
 #### Evaluation Metrics
 - **Overall**: Accuracy, Precision, Recall, F1-score, and AUC.
 - **Minority Classes**: Precision, Recall, and F1-score.
