@@ -22,8 +22,8 @@ The focus is on improving precision, recall, and F1-scores for minority/rare cla
 
 #### Dataset
 - **CICIDS2017**: Wednesday and Thursday morning data.
-Wednesday (dataset_1) : https://drive.google.com/file/d/1zOeCqtGZjAj_nSLe3W5MH5pDQM28bPde/view?usp=sharing
-Thursday morning (dataset_3) : https://drive.google.com/file/d/1WL00LFkCA2ylV8_8c6jm52bnEhGLcKsq/view?usp=sharing
+1. Wednesday (dataset_1) : https://drive.google.com/file/d/1zOeCqtGZjAj_nSLe3W5MH5pDQM28bPde/view?usp=sharing
+2. Thursday morning (dataset_3) : https://drive.google.com/file/d/1WL00LFkCA2ylV8_8c6jm52bnEhGLcKsq/view?usp=sharing
 #### Evaluation Metrics
 - **Overall**: Accuracy, Precision, Recall, F1-score, and AUC.
 - **Minority Classes**: Precision, Recall, and F1-score.
@@ -99,7 +99,7 @@ Thursday morning (dataset_3) : https://drive.google.com/file/d/1WL00LFkCA2ylV8_8
 
 ### Collaboration of Project
 - **Team members**: Yoojin Jung, Meena Ruwandi, Siwon Lim
-- Special thanks to Prof.Zhida Li for leading us by expert guidance, insightful feedback, and unwavering support, which were instrumental in the successful completion of this project.
+- **Special thanks to Prof.Zhida Li** for leading us by expert guidance, insightful feedback, and unwavering support, which were instrumental in the successful completion of this project.
 
 
 
